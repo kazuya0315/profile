@@ -1,0 +1,63 @@
+body {
+  background-color: #F8FBFD;
+  
+}
+
+header {
+  background-color: #CF2B0E;
+  border-bottom: 2px solid #1E211B;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+h1{
+  color: #F8FBFD;
+}
+
+h2{
+  color: #F8FBFD;
+}
+
+h4{
+  font-weight: normal;
+  color: #1E211B;
+}
+
+.menu {
+display: flex;
+
+}
+
+.menu .box {
+  
+  padding: 10px 10px 10px 0px;
+  margin-left: 50px;
+
+}
+
+.my-bike {
+  width:500px ;
+  height: auto;
+}
+
+.my-dumbbell {
+  width:500px ;
+  height: auto;
+}
+
+.map {
+  width: 300px;
+  height: auto;
+}
+
+footer {
+  background-color: #CF2B0E;
+  color: white;
+  border-top: 2px solid #1E211B;
+  padding: 10px;
+  text-align: left;
+  font-size: 16px;
+}
